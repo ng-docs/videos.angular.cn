@@ -12,3 +12,4 @@ youtube-dl https://www.youtube.com/embed/maI2u6Sxk9M --write-sub --sub-format vt
 youtube-dl https://www.youtube.com/embed/wfLkB3RsSJM --write-sub --sub-format vtt --convert-subs vtt
 youtube-dl https://www.youtube.com/embed/x5PZwb4XurU --write-sub --sub-format vtt --convert-subs vtt
 youtube-dl https://www.youtube.com/embed/z_3Z5mOm59I --write-sub --sub-format vtt --convert-subs vtt
+youtube-dl https://www.youtube.com/embed/x5PZwb4XurU --write-sub --sub-format vtt --convert-subs vtt
