@@ -1,6 +1,6 @@
 WEBVTT
 Kind: captions
-Language: zh-Hans
+Language: zh-CN
 
 00:00:00.000 --> 00:00:09.881
 [音乐播放] DYLAN HUNN：大家好，
@@ -188,7 +188,7 @@ place 的值为 number 并且在其上调用子字
 这些新类型渗透到 API 中。
 
 00:03:28.660 --> 00:03:39.068
-在访问表单值、获取深层嵌套控件、订阅 Observables 
+在访问表单值、获取深层嵌套控件、订阅 Observables
 等几乎任何与表单 API 表面交互的点时，
 
 00:03:39.068 --> 00:03:41.174
